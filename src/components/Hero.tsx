@@ -98,7 +98,7 @@ export default function Hero() {
             <div className="relative w-full max-w-[450px] aspect-[4/5] rounded-[2.5rem] overflow-hidden shadow-premium-xl bg-slate-100">
               {/* Smiling patient photo placeholder URL - High quality Unsplash */}
               <Image
-                src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?q=80&w=800&auto=format&fit=crop"
+                src="https://images.unsplash.com/photo-1598256989800-fe5f95da9787?q=80&w=800&auto=format&fit=crop"
                 alt="Smiling patient in dental chair at Dr. Sadaf Dental Care Karachi"
                 fill
                 priority
